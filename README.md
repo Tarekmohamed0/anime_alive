@@ -23,7 +23,7 @@ A modern Flutter-based anime streaming application that brings your favorite ani
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/anime_alive.git
+git clone https://github.com/Tarekmohamed0/anime_alive.git
 cd anime_alive
 ```
 
